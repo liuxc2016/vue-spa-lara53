@@ -1,0 +1,1 @@
+{"version":3,"sources":["app_2.scss"],"names":[],"mappings":"AAAA;EACC,aAAY;EACZ,aAAa;EACb,iBAAiB;EAChB,kCAAkB;EAAlB,0BAAkB,EACnB","file":"app_2.css","sourcesContent":["#test_css{\r\n\twidth:300px;\r\n\theight: 30px;\r\n\tbackground: pink;\r\n\t transform: rotateX(45deg);\r\n}"],"sourceRoot":"/source/"}
